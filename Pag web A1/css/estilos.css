@@ -7,8 +7,8 @@ a{
 .negrita {
     font-weight: bold;
  }
- .comicSans {
-    font-family: "Comic Sans MS", cursive, sans-serif;
+ .Roboto {
+   font-family: 'Roboto', sans-serif;
  }
  .centrar {
     text-align: center;
